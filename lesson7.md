@@ -2,6 +2,20 @@
 
 сервер: 93.95.97.172
 
+barikina	Bar1k1na
+danilenko	dan1Lenk0
+egorenko	egorenK0
+lygin	LYg1n
+malygin	malYg1n
+mashrapov	maSHrap0v
+nosulia	n0suliA
+park	PARk11
+petrosov	petr0sOv
+pimkin	p1mkiN
+poliakov	P0l1ak0v
+pronina	pr0NInA
+
+
 ### Установка virtualenwrapper
 
 1. Создаете папку projects;

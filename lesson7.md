@@ -1,3 +1,16 @@
+## Повторение
+
+### Установка virtualenwrapper
+
+1. Создаете папку projects;
+2. В домашней директории находите файл .bashrc и добавляете в него строки:
+```
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/Devel
+source /usr/local/bin/virtualenvwrapper.sh
+```
+и перезагружаете его: source ~/.bashrc
+
 ## JSON
 
 ### Теория

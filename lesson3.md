@@ -45,7 +45,7 @@
 1. `nano ~/.bashrc`
 2. Insert into the end of the file: 
 
-  `VIRTUALENVWRAPPER_PYTHON='/usr/bin/python3' 
+  `VIRTUALENVWRAPPER_PYTHON='/usr/bin/python3'` 
   
   `source /home/[your_login]/.local/bin/virtualenvwrapper.sh`
   

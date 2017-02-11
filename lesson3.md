@@ -46,7 +46,8 @@
 2. Insert into the end of the file: 
 
   `VIRTUALENVWRAPPER_PYTHON='/usr/bin/python3' 
-  `source /usr/local/bin/virtualenvwrapper.sh`
+  
+  `source /home/[your_login]/.local/bin/virtualenvwrapper.sh`
   
 3. CTRL+X, ENTER
 4. `exit`  # You should relogin
